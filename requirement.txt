@@ -1,0 +1,6 @@
+# Core — all used in pii_detector.py
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Built-in (no install needed, listed for clarity)
+# re, json, os, datetime — Python standard library
